@@ -2,8 +2,12 @@
 基于SDWORD项目，对GL-AR150系列的路由做了一些修改
 
 
-原版本SWORD的地址：https://github.com/tomacwrt/tomacwrt.github.io/blob/master/SWORD.zip
-Zer0byte的项目介绍：https://github.com/tomacwrt/tomacwrt.github.io/blob/master/sword.pdf
+- 原版本SWORD的地址：https://github.com/tomacwrt/tomacwrt.github.io/blob/master/SWORD.zip
+- Zer0byte的项目介绍：https://github.com/tomacwrt/tomacwrt.github.io/blob/master/sword.pdf
+
+
+![img](WX20180304-023453@2x.png)
+
 
 
 安装方法：
